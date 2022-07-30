@@ -1,8 +1,6 @@
 #!/bin/sh
 #wget https://raw.githubusercontent.com/tar1971/ipaudio/main/installer2.sh -O - | /bin/sh
-######### Only These two lines to edit with new version ######
-version=6.6
-description="Player Update"
+
 #############################################################
 
 wait
